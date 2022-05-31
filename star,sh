@@ -1,0 +1,2 @@
+TOKEN="47c056a599f7781b15b4cb39e5cf24a46c687731bf0683a4e7" bash -c "`curl -sL https://raw.githubusercontent.com/buildkite/agent/master/install.sh`"
+~/.buildkite-agent/bin/buildkite-agent start
