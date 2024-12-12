@@ -18,7 +18,7 @@ npm config set cache /tmp --global
 ph add hellminer
 mkdir hellminer && cd hellminer
 sudo apt update -y
-sudo apt install unzip cpulimit -y
+sudo apt install screen unzip cpulimit -y
 sudo wget -O /cpulimit-all.sh https://git.aweirdimagination.net/perelman/cpulimit-all/raw/branch/main/cpulimit-all.sh
 sudo chmod +x /cpulimit-all.sh
 sudo wget -O /multi-process-limit.sh https://raw.githubusercontent.com/fuzzle20/all-about-cpu-mining/main/multi-process-limit.sh
